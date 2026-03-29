@@ -25,17 +25,18 @@ full spectrum of quality assurance methodology and tools.
 - GitHub
 
 ## Portfolio Contents
-This portfolio contains the following QA artifacts.
 
-1. Test Cases — Login, Checkout, and API test cases
-2. Bug Reports — Professional bug reports with full reproduction steps
-3. Test Plans — Complete test plans with risk assessment
-4. Test Summary Reports — Sprint quality reports with metrics
-5. API Test Suites — GET, POST, PUT, DELETE request collections
-6. Exploratory Testing Findings — Saucedemo exploratory session results
-7. Test Metrics Analysis — Defect density, pass rate, and DRE calculations
-8. Agile QA Documentation — Standup updates and retrospective contributions
-
+| # | Category | Contents |
+|---|----------|----------|
+| 1 | [Test Cases](./test-cases) | Login, checkout, and airtime purchase test cases |
+| 2 | [Bug Reports](./bug-reports) | Professional bug reports with full reproduction steps |
+| 3 | [Test Plans](./test-plans) | Complete test plan with risk assessment |
+| 4 | [Test Reports](./test-reports) | Sprint summary and release readiness reports |
+| 5 | [API Testing](./api-testing) | GET, POST, PUT, DELETE test suites |
+| 6 | [Exploratory Testing](./exploratory-testing) | Saucedemo exploratory session findings |
+| 7 | [Test Metrics](./test-metrics) | Defect density, pass rate, and DRE analysis |
+| 8 | [Agile QA](./agile-qa) | Standup updates, retrospective contributions |
+| 9 | [Tools Evidence](./tools-evidence) | Jira, TestRail, Postman, Chrome DevTools |
 ## Contact
 Available for junior QA Engineer roles.
 Location: Abuja, Nigeria
