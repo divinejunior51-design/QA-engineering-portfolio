@@ -3,7 +3,7 @@
 ## About Me
 I am a junior QA Engineer with hands-on experience in manual testing, 
 API testing, test planning, bug reporting, and Agile QA practices. 
-I completed an intensive 14-day QA Engineering bootcamp covering the 
+I completed an intensive 28-day QA Engineering bootcamp covering the 
 full spectrum of quality assurance methodology and tools.
 
 ## Core Skills
