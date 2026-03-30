@@ -28,15 +28,15 @@ full spectrum of quality assurance methodology and tools.
 
 | # | Category | Contents |
 |---|----------|----------|
-| 1 | Test Cases | [Login, checkout, and airtime purchase test cases](./test-cases) |
-| 2 | Bug Reports | [Professional bug reports with full reproduction steps](./bug-reports) |
-| 3 | Test Plans | [Complete test plan with risk assessment](./test-plans) |
-| 4 | Test Reports | [Sprint summary and release readiness reports](./test-reports) |
-| 5 | API Testing | [GET, POST, PUT, DELETE test suites](./api-testing) |
-| 6 | Exploratory Testing | [Saucedemo exploratory session findings](./exploratory-testing) |
-| 7 | Test Metrics | [Defect density, pass rate, and DRE analysis](./test-metrics) |
-| 8 | Agile QA | [Standup updates, retrospective contributions](./agile-qa) |
-| 9 | Tools Evidence | [Jira, TestRail, Postman, Chrome DevTools](./tools-hands-on-evidence.md) |
+| 1 | [Test Cases](./test-cases) | Login, checkout, and airtime purchase test cases |
+| 2 | [Bug Reports](./bug-reports) | Professional bug reports with full reproduction steps |
+| 3 | [Test Plans](./test-plans) | Complete test plan with risk assessment |
+| 4 | [Test Reports](./test-reports) | Sprint summary and release readiness reports |
+| 5 | [API Testing](./api-testing) | GET, POST, PUT, DELETE test suites |
+| 6 | [Exploratory Testing](./exploratory-testing) | Saucedemo exploratory session findings |
+| 7 | [Test Metrics](./test-metrics) | Defect density, pass rate, and DRE analysis |
+| 8 | [Agile QA](./agile-qa) | Standup updates, retrospective contributions |
+| 9 | [Tools Evidence](./tools-evidence) | Jira, TestRail, Postman, Chrome DevTools |
 
 ## Contact
 Available for junior QA Engineer roles.
