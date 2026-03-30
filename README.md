@@ -36,7 +36,7 @@ full spectrum of quality assurance methodology and tools.
 | 6 | Exploratory Testing | [Saucedemo exploratory session findings](./exploratory-testing) |
 | 7 | Test Metrics | [Defect density, pass rate, and DRE analysis](./test-metrics) |
 | 8 | Agile QA | [Standup updates, retrospective contributions](./agile-qa) |
-| 9 | Tools Evidence | [Jira, TestRail, Postman, Chrome DevTools](./tools-evidence) |
+| 9 | Tools Evidence | [Jira, TestRail, Postman, Chrome DevTools](./tools-hands-on-evidence.md) |
 
 ## Contact
 Available for junior QA Engineer roles.
