@@ -41,4 +41,5 @@ full spectrum of quality assurance methodology and tools.
 ## Contact
 Available for junior QA Engineer roles.
 Location: Abuja, Nigeria
+Email: divinejunior51@gmail.com
 Open to remote opportunities worldwide.
